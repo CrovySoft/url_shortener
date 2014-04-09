@@ -1,7 +1,7 @@
 url_shortener
 =============
 
-URL Shortener with Django.
+URL Shortener with Django...
 
 ## Overview ##
 
